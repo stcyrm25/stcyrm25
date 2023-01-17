@@ -8,4 +8,4 @@
 - 📫 How to reach me: stcyrm25@wpsma.org
 - 😄 Pronouns: he him
 -
-[MY PORTFOLIO](https://github.com/stcyrm25/Portfolio)
+[MY PORTFOLIO](https://stcyrm25.github.io/portfolio/index.html)
