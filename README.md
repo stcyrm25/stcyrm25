@@ -7,4 +7,4 @@
 - 💬 Ask me about how my current projct is going. 
 - 📫 How to reach me: stcyrm25@wpsma.org
 - 😄 Pronouns: he him
-- ⚡ Fun fact: I like pizza
+- Portfolio:
