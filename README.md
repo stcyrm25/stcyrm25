@@ -7,4 +7,4 @@
 - 💬 Ask me about how my current projct is going. 
 - 📫 How to reach me: stcyrm25@wpsma.org
 - 😄 Pronouns: he him
--  ## [MY PORTFOLIO](https://stcyrm25.github.io/Portfolio/index.html)
+## [MY PORTFOLIO](https://stcyrm25.github.io/Portfolio/index.html)
