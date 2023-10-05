@@ -9,7 +9,7 @@
 - 😄 Pronouns: he him
 
 ## [WEB DESIGN PORTFOLIO](http://stcyrm25.github.io/Portfolio)
- PROGRAMMING PORTFOLIO
- Code.org Gamelab
+## PROGRAMMING PORTFOLIO
+### Code.org Gamelab
 [Robot Face](https://stcyrm25.github.io/Robot/)
 
