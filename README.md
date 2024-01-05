@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CSS.
 - 👯 I’m looking to collaborate on websites.
 - 🤔 I’m looking for help with CSS.
-- 💬 Ask me about how my current projct is going. 
+- 💬 Ask me about how my current project is going. 
 - 📫 How to reach me: stcyrm25@wpsma.org
 - 😄 Pronouns: he him
 
