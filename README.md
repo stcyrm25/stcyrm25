@@ -41,5 +41,21 @@
 > Click each piano key to create a sound.
 
 [Music Maker](
+
+### CMU Academy 
+[Creative Task 1](https://academy.cs.cmu.edu/sharing/limeGreenSpider3710)
+> In this creative task I created a picture of a school bus.
+
+[Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/oliveDrabPuppy2173)
+> In this project the lion gets angry.
+
+[Unit 3 Creative Task](https://academy.cs.cmu.edu/sharing/mistyRoseBird7640)
+>I this project the pink bids eyes follow the mouse.
+
+[Unit 4 Creative Task](https://academy.cs.cmu.edu/sharing/gainsboroSquirrel9364)
+>In this project if you click on the string it plays music.
+
+[Unit 5 Creative Task](https://academy.cs.cmu.edu/sharing/azureWolf1246)
+>In this project if you press certain keys the ghost moves.
                                                                                        
 
