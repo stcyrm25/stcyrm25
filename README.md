@@ -12,9 +12,9 @@
 
 ### Code.org Gamelab
 [Robot](https://stcyrm25.github.io/Robot/)
-> In this project I used shapes, variable, and dooble to expres my creativity and created a Random Robot Face.
+> In this project I used shapes and variables to show my creativity and created a Random Robot Face.
 
 [Caption Scene](https://stcyrm25.github.io/CaptionScene)
-> In this project I used 
+> In this project I used great code to create a scene. 
 
 
