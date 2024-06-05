@@ -42,6 +42,12 @@
 
 [Music Maker](
 
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=a2599507-bc55-4e27-9b8f-b09dc187a360)
+> Find the gold using the ball, avoid obstacles along the way.
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=5411608a-4aba-4102-a87c-f1b5ca2423df)
+> Chase the food using the dots!
+
 ### CMU Academy 
 [Creative Task 1](https://academy.cs.cmu.edu/sharing/limeGreenSpider3710)
 > In this creative task I created a picture of a school bus.
