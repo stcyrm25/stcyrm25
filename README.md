@@ -29,7 +29,7 @@
 [Platform Jumper](https://studio.code.org/projects/gamelab/h_4eupIZIJjJqWoXXoq-d5OOEQUFhCZFXXA2Yabez6s)
 > With many different variables I was able to create a platform jumper.
 
-[Final Game Project] (https://studio.code.org/projects/gamelab/hGZohABeu-jTGwLar35aEX8DdrnoPjhB9hKFV5wJdd0)
+[Final Game Project](https://studio.code.org/projects/gamelab/hGZohABeu-jTGwLar35aEX8DdrnoPjhB9hKFV5wJdd0)
 > A game which invovles an evil squid trying to sink your ship!
 
 ### App Inventor
